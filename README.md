@@ -69,8 +69,7 @@ TABULATION
 
 CALCULATION
 
-<img width="1600" height="1402" alt="WhatsApp Image 2026-09-02 at 22 19 45" src="https://github.com/user-attachments/assets/b25eba04-b51d-44a5-9a02-9ff31056cc71" />
-<img width="899" height="1599" alt="WhatsApp Image 2026-09-02 at 22 19 29" src="https://github.com/user-attachments/assets/f86419a2-498b-4494-8875-f2156f562d1b" />
+<img width="908" height="1430" alt="image" src="https://github.com/user-attachments/assets/eabb6ebb-19db-4543-b862-e31145077cc3" />
 
 RESULT
 The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots. The modulated signal will show phase variations corresponding to the amplitude of the message signal.
