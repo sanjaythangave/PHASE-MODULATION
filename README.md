@@ -33,12 +33,12 @@ Display the Result: Observe the phase variation of the carrier signal according 
 
 PROGRAM
 ~~~
-Am=1.4;
-Ac=2.45;
-fm=337;
-fc=3370;
-fs=337000;
-B=2.17;
+Am=2.9;
+Ac=5.075;
+fm=557;
+fc=5570;
+fs=55700;
+B=2.87;
 Kp=B;
 t=0:1/fs:2/fm;
 em=Am*cos(2*3.14*fm*t);
@@ -54,15 +54,18 @@ epm=Ac*cos((2*3.14*fc*t)+(Kp*cos(2*3.14*fm*t)));
 subplot(4,1,4);
 plot(t,epm);
 
+
+
 ~~~
 OUTPUT WAVEFORM
+<img width="2794" height="1644" alt="image" src="https://github.com/user-attachments/assets/064ee676-4644-4f34-8c67-2a349e46ea3a" />
 
-<img width="1917" height="883" alt="image" src="https://github.com/user-attachments/assets/940a05af-e9e6-4d11-8f72-c7d68bf0ff90" />
 
 
 TABULATION
+<img width="1474" height="938" alt="image" src="https://github.com/user-attachments/assets/5c663ed3-3aa2-483e-90d8-5901acbc8871" />
 
-<img width="1599" height="899" alt="WhatsApp Image 2026-09-02 at 22 18 50" src="https://github.com/user-attachments/assets/4e256998-b68a-4de4-9d4f-789bd16c4888" />
+
 
 CALCULATION
 
